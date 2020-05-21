@@ -1,10 +1,10 @@
 # Site settings
-title: Hanuman
+title: 아부지부대찌게
 description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
-favicon: assets/images/favicon.png
-baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+favicon: ""
+baseurl: "/아부지부대찌게/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://supercoder95.github.io" # the base hostname & protocol for your site
 
 pagination:
