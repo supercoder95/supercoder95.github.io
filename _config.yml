@@ -1,7 +1,7 @@
 # Site settings
 title: 아부찌부대찌게
 description: 언제나 맛으로 보답하는 아부찌부대찌게입니다.
-cover: supercoder95.github.io/assets/images/mosaFVSRXv.jpg
+cover: assets/images/mosaFVSRXv.jpeg
 logo: assets/images/logo.png
 favicon: ""
 baseurl: "/아부찌부대찌게/" # the subpath of your site, e.g. /blog/ or / for root
