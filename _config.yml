@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "supercoder95의 그럴사한 노트"
+title                    : "아부찌 부대찌게 공식블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "supercoder95"
-description              : "supercoder95의 개발공부 일기"
+description              : "간단하게 저녁식사는 역시 "
 url                      : "https://supercoder95.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
